@@ -133,7 +133,19 @@ footer {
 }
 
 footer a {
-    color: #007bff;
+    color: #1775d9;
     text-decoration: none;
+}
+.li i{
+    color: #1a6ec7;
+}
+.po i{
+    color: #1c6cc2;
+}
+.te i{
+    color: rgb(194, 194, 23);
+}
+.pi i{
+    color: rgb(195, 41, 41);
 }
 
